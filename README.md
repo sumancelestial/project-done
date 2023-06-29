@@ -64,7 +64,7 @@ Used Technologies: ReactJs and JavaScript
 
 ### Exam pathfinder
 
-exampathfinder.com lets admin create the quiz by selecting questions from question bank. Bulk importer helps admin to upload the multiple questions from a single excel file and uploaded questions will be saved into question bank. During uploading the file, user can review the questions on the editor.
+exampathfinder.com is a platform for students who can prepare the competitive exams.  This application lets admin create the quiz by selecting questions from question bank. Bulk importer helps admin to upload the multiple questions from a single excel file and uploaded questions will be saved into question bank. During uploading the file, user can review the questions on the editor.
 
 My Roles and Responsibilities
 
@@ -74,7 +74,7 @@ My Roles and Responsibilities
 
 ### Exam notifier
 
-The application exam notifier where admin can create any kind of exams and user can subscribe those exams and can get the website notifications. This web app is made by Vue.js, cloud computing and graph database such as lambda, API gateway and Neo4j
+Thhis platgorm provide alerts on jobs for Central Govt., State Govt. and autonomous bodies. In this application, admin can create any kind of exams and user can subscribe those exams and can get the website notifications. This web app is made by Vue.js, cloud computing and graph database such as lambda, API gateway and Neo4j
 
 My Roles and Responsibilities
 
@@ -84,7 +84,7 @@ My Roles and Responsibilities
 
 ### Moodle(LMS) Mobile App Builder
 
-Application lets the user do customize the Moodle mobile app's color, icons, splash images by user interface
+This application lets the user do customize the Moodle mobile app's color, icons, splash images by user interface
 
 My Roles and Responsibilities
 
