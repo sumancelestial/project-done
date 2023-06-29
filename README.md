@@ -1,4 +1,23 @@
 The projects I have contributed and participated:
+### Froala Editor:
+
+Froala Editor is an enterprise solutions for web editor having 80k + NPM downloads per week last year
+
+My Roles and Responsibilities
+
+- Fix Bugs
+
+Used Technologies: JavaScript
+
+### Fusionchart's Vue plugin:
+
+Fusionchart provides beautiful data visualization with Chart, Maps, Grid, etc
+
+My Roles and Responsibilities
+
+- Create Vue3 plugin for integration fusioncharts into Vue3
+
+Used Technologies: Vue3 and JavaScript
 
 ### SQL Diagnostic Manager
 
@@ -23,29 +42,9 @@ My Roles and Responsibilities
 
   Used Technologies: ReactJs 18, JavaScript
 
-### Froala Editors:
-
-Froala provides the web editor as a product
-
-My Roles and Responsibilities
-
-- Fix Bugs
-
-Used Technologies: JavaScript
-
-### Fusionchart's Vue plugin:
-
-### Fusioncharts provides the chart library as a product
-
-My Roles and Responsibilities
-
-- Create Vue3 plugin for integration fusioncharts into Vue3
-
-Used Technologies: Vue3 and JavaScript
-
 ### Supply wisdom
 
-Supply Wisdom’s patented solution is transforming the way supply chain, procurement and third-party risk leaders manage risks and operational resilience
+Supply wisdom meets the challenge of increasing business disruption risk with an automated risk management solution
 
 My Roles and Responsibilities
 
